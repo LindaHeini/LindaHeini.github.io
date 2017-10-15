@@ -1,9 +1,21 @@
 body{
   font-family: "Comic Sans MS";
-  background-color: pink}
+  background-color: grey}
 
 h1 {
   font-family: "Comic Sans MS"
     color: #pink;
 
+}
+#header {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #426493;
+}
+#content {
+    width: 75%;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
 }
